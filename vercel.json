@@ -2,7 +2,7 @@
   "version": 2,
   "scope": "harryrosen",
   "functions": {
-    "pages/api/**/*": {
+    "src/pages/api/**/*": {
       "memory": 512
     }
   }
