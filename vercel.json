@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "scope": "harryrosen",
+  "functions": {
+    "pages/api/**/*": {
+      "memory": 512
+    }
+  }
+}
